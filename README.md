@@ -1,4 +1,4 @@
-# Stochastic Tariff Rate Optimization
+# Stochastic Unit Commitment
 
 This repository contains a Julia Jupyter notebook (`.ipynb`) for a stochastic optimization model that addresses a unit commitment problem in power generation.
 
