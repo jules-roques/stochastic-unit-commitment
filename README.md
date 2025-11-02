@@ -40,7 +40,7 @@ Jupyter will open in your web browser. You can then select `notebook.ipynb` from
 
 ## Project Overview
 
-For visuals, one may refer to the [presentation slides](/presentation_slides.pdf).
+For visuals, one may refer to the [presentation slides](/slides.pdf).
 
 This project tackles a unit commitment problem, which involves deciding how many power generators to turn on in advance (a "here-and-now" decision) to meet a fluctuating and uncertain energy demand at the minimum cost.
 
